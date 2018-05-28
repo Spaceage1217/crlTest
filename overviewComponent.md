@@ -1,0 +1,5 @@
+[Machine Learning-based Autotuning](autotuning.php)
+[Adaptive Algorithms for Optimization Problems in OR](or.php)
+[GPU Memory Hierarchy Management](memory_hierarchy_gpu.php)
+[Shared High-Performance Data Center](http://cs.txstate.edu/~yl12/CRI/)
+[Power-aware Task Scheduling](power_aware_scheduling.php)
